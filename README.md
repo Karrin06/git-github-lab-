@@ -1,0 +1,1 @@
+This project serves as a hands on skills test regarding Git and Git-Hub from local repository to branching, merging, and cloning
